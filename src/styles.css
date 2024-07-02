@@ -1344,6 +1344,7 @@ input[type="range"]::-ms-fill-lower {
 .select2.select2-container .select2-selection--multiple {
   height: auto;
   min-height: 42px;
+  padding-bottom: 0;
 }
 
 .select2.select2-container .select2-selection--multiple .select2-search--inline .select2-search__field {
